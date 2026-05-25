@@ -1,0 +1,22 @@
+.cookie-popup {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: gray;
+  color: white;
+  padding: 20px;
+  border-radius: 5px;
+  display: none;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cookie-popup button {
+  background-color: white;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  margin-left: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
